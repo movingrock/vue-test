@@ -1,0 +1,21 @@
+{
+  "name": "vue-test",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "nanoid": "^5.0.7",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.75.0",
+    "shortid": "^2.2.16",
+    "vite": "^5.2.8"
+  }
+}
